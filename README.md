@@ -54,5 +54,5 @@ Se você tem sugestões ou ideias para melhorar algum projeto, sinta-se à vonta
 Vamos nos conectar! Estou disponível para discutir oportunidades, colaborações ou apenas para trocar ideias sobre o mundo dos dados.
 
 * **Email:** [gmteixeiralves@hotmail.com]
-* **LinkedIn:** [https://www.linkedin.com/in/guilherme-alves-a576092b1/]
+* **LinkedIn:** [https://www.linkedin.com/in/guilherme-alves-80763037a/]
 * **GitHub:** [https://github.com/geemealves]
