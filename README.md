@@ -4,9 +4,9 @@ Bem-vindo(a) ao meu portfólio de projetos de Análise de Dados! Este repositór
 
 ## Sobre Mim
 
-Estudo Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP) e sou apaixonado por conectar dados, processos e tecnologia para gerar resultados tangíveis. Acredito firmemente que a análise de dados tem o poder de impulsionar o crescimento das empresas, melhorar a eficiência operacional e transformar dados brutos em insights valiosos e acionáveis.
+Estudante de Análise e Desenvolvimento de Sistemas (UNIP), com experiência em relatórios operacionais, indicadores e automação de planilhas. Tenho conhecimentos em Python, SQL, Power BI, Neo4j, Inteligência Artificial e Excel Intermediário, além de formação complementar em Estatística Aplicada, que reforça minha base para análise e interpretação de dados.
 
-Estou sempre aberto a novas conexões, ideias e oportunidades que me permitam evoluir ainda mais na área de T.I e análise de dados. Meu objetivo é aplicar meus conhecimentos para contribuir significativamente para o sucesso de projetos e organizações.
+Busco consolidar minha carreira como Analista, sempre com o propósito de transformar dados em insights estratégicos. Após a graduação, planejo iniciar um MBA em Economia, Investimento e Banking, fortalecendo minha atuação no mercado financeiro e analítico. Ou um MBA em Data Science e Analytics.
 
 ## Visite o Portfólio Online
 
@@ -18,14 +18,16 @@ Você pode acessar a versão online completa deste portfólio, hospedada no GitH
 
 Este portfólio inclui uma variedade de projetos que demonstram minhas habilidades e meu interesse em diferentes áreas da análise de dados:
 
-* **Simulador-FII-Excel:** Uma ferramenta interativa em Excel para simular aportes em Fundos de Investimento Imobiliário (FIIs), visualizando o potencial de crescimento de patrimônio e dividendos.
+* **Simulador FIIs:** Uma ferramenta interativa em Excel para simular aportes em Fundos de Investimento Imobiliário (FIIs), visualizando o potencial de crescimento de patrimônio e dividendos.
     * [Ver Projeto no GitHub](https://github.com/geemealves/Simulador-FII-Excel)
-* **Agregador_IR_Excel:** Uma ferramenta completa em Excel para organizar e consolidar informações essenciais para a declaração anual de Imposto de Renda, focada em praticidade e usabilidade.
+* **Agregador Imposto de Renda:** Uma ferramenta completa em Excel para organizar e consolidar informações essenciais para a declaração anual de Imposto de Renda, focada em praticidade e usabilidade.
     * [Ver Projeto no GitHub](https://github.com/geemealves/Agregador_IR_Excel)
-* **Dashboard-Vendas-Excel:** Um dashboard de vendas desenvolvido no Microsoft Excel, utilizando Tabelas Dinâmicas, Gráficos e Segmentações para facilitar a análise visual dos dados.
+* **Dashboard de Vendas:** Um dashboard de vendas desenvolvido no Microsoft Excel, utilizando Tabelas Dinâmicas, Gráficos e Segmentações para facilitar a análise visual dos dados.
     * [Ver Projeto no GitHub](https://github.com/geemealves/Dashboard-Vendas-Excel)
-* **SmartHelp - Automatização Inteligente do Suporte Técnico com IA:** Um sistema de suporte técnico automatizado com IA (C#, .NET, OpenAI, MS SQL Server) que permite registrar, classificar chamados e sugerir soluções.
-    * [Download do Projeto](https://drive.google.com/file/d/1-MBIAUatswJs4iEZuKh2wzdkbf4d4KY/view?usp=drive_link)
+* **Grafo de Streaming:** Um projeto onde explorei o uso de bancos de dados em grafo, usando Neo4j AuraDB e Cypher para criar um sistema de recomendação de streaming.
+    * [Ver Projeto no GitHub](https://github.com/geemealves/Neo4j-Streaming-Graph)
+* **Dashboard de Performance de Futebol:** O projeto permite analisar estatísticas de partidas (como gols, chutes, posse de bola e passes), tudo em um ambiente interativo e visual. Com Python, Streamlit, Pandas e Plotly.
+    * [Ver Projeto no GitHub](https://github.com/geemealves/football-performance-dashboard)
     
 ## Habilidades e Tecnologias
 
