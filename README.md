@@ -36,7 +36,7 @@ Minhas principais habilidades e ferramentas incluem:
 * **Linguagens:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, Cypher
 * **Ferramentas BI:** Power BI (DAX, Power Query, Modelagem), Excel (Funções Avançadas, Power Query)
 * **Plataformas Cloud:** Azure (Azure Data Factory, Azure Synapse Analytics, Azure SQL Database, Data Lake Storage)
-* **Bancos de Dados:** SQL Server, PostgreSQL, MySQL
+* **Bancos de Dados:** SQL Server, PostgreSQL, MySQL, Neo4j AuraDB
 * **Versionamento:** Git, GitHub
 * **Conceitos:** Estatística, Machine Learning, ETL, Data Storytelling
 
