@@ -43,7 +43,7 @@ Minhas principais habilidades e ferramentas incluem:
 
 Para visualizar minhas certificações e licenças que comprovam meu conhecimento e habilidades, acesse meu perfil no LinkedIn:
 
-* [Ver Certificados no LinkedIn](https://www.linkedin.com/in/guilherme-alves-a576092b1/details/certifications/)
+* [Ver Certificados no LinkedIn](https://www.linkedin.com/in/guilherme-alves-80763037a/details/certifications/)
 
 ## Como Contribuir
 
