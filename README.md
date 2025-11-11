@@ -26,13 +26,12 @@ Este portfólio inclui uma variedade de projetos que demonstram minhas habilidad
     * [Ver Projeto no GitHub](https://github.com/geemealves/Dashboard-Vendas-Excel)
 * **SmartHelp - Automatização Inteligente do Suporte Técnico com IA:** Um sistema de suporte técnico automatizado com IA (C#, .NET, OpenAI, MS SQL Server) que permite registrar, classificar chamados e sugerir soluções.
     * [Download do Projeto](https://drive.google.com/file/d/1-MBIAUatswJs4iEZuKh2wzdkbf4d4KY/view?usp=drive_link)
-    * [Ver Detalhes no LinkedIn](https://www.linkedin.com/in/guilherme-alves-a576092b1/details/projects/)
-
+    
 ## Habilidades e Tecnologias
 
 Minhas principais habilidades e ferramentas incluem:
 
-* **Linguagens:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL
+* **Linguagens:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, Cypher
 * **Ferramentas BI:** Power BI (DAX, Power Query, Modelagem), Excel (Funções Avançadas, Power Query)
 * **Plataformas Cloud:** Azure (Azure Data Factory, Azure Synapse Analytics, Azure SQL Database, Data Lake Storage)
 * **Bancos de Dados:** SQL Server, PostgreSQL, MySQL
