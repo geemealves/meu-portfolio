@@ -4,9 +4,9 @@ Bem-vindo(a) ao meu portfólio de projetos de Análise de Dados! Este repositór
 
 ## Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (UNIP), com experiência em relatórios operacionais, indicadores e automação de planilhas. Tenho conhecimentos em Python, SQL, Power BI, Neo4j, Inteligência Artificial e Excel Intermediário, além de formação complementar em Estatística Aplicada, que reforça minha base para análise e interpretação de dados.
+Recém-formado em Análise e Desenvolvimento de Sistemas, com experiência em criação de relatórios, indicadores e automações. Possuo conhecimentos em Python, SQL, Power BI, Neo4j, IA e Excel intermediário, além de base em Estatística Aplicada.
 
-Busco consolidar minha carreira como Analista, sempre com o propósito de transformar dados em insights estratégicos. Após a graduação, planejo iniciar um MBA em Economia, Investimento e Banking, fortalecendo minha atuação no mercado financeiro e analítico. Ou um MBA em Data Science e Analytics.
+Busco iniciar minha carreira como Analista, contribuindo com análise de dados e geração de insights estratégicos, com interesse em avançar para um MBA nas áreas de Economia e Banking ou Data Science e Analytics.
 
 ## Visite o Portfólio Online
 
@@ -24,16 +24,18 @@ Este portfólio inclui uma variedade de projetos que demonstram minhas habilidad
     * [Ver Projeto no GitHub](https://github.com/geemealves/Agregador_IR_Excel)
 * **Dashboard de Vendas:** Um dashboard de vendas desenvolvido no Microsoft Excel, utilizando Tabelas Dinâmicas, Gráficos e Segmentações para facilitar a análise visual dos dados.
     * [Ver Projeto no GitHub](https://github.com/geemealves/Dashboard-Vendas-Excel)
-* **Grafo de Streaming:** Um projeto onde explorei o uso de bancos de dados em grafo, usando Neo4j AuraDB e Cypher para criar um sistema de recomendação de streaming.
+* **Grafo de Streaming:** Um projeto onde explorei o uso de bancos de dados em grafo, para criar um sistema de recomendação de streaming. Usando Neo4j • AuraDB • Cypher
     * [Ver Projeto no GitHub](https://github.com/geemealves/Neo4j-Streaming-Graph)
-* **Dashboard de Performance de Futebol:** O projeto permite analisar estatísticas de partidas (como gols, chutes, posse de bola e passes), tudo em um ambiente interativo e visual. Com Python, Streamlit, Pandas e Plotly.
+* **Dashboard de Performance de Futebol:** O projeto permite analisar estatísticas de partidas (como gols, chutes, posse de bola e passes), tudo em um ambiente interativo e visual. Com Python • Streamlit • Pandas • Plotly
     * [Ver Projeto no GitHub](https://github.com/geemealves/football-performance-dashboard)
+* **SmartHelp:** O SmartHelp é um sistema de suporte técnico que automatiza a abertura, classificação e priorização de chamados usando IA, trazendo mais agilidade e organização para a empresa. O sistema conta com três versões: web, desktop e mobile. Utilizando HTML • CSS • JavaScript • C# .NET Web API • SQL Server • OpenAI GPT • JWT • BCrypt
+    * [Ver Projeto no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7399605532808077312/)
     
 ## Habilidades e Tecnologias
 
 Minhas principais habilidades e ferramentas incluem:
 
-* **Linguagens:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, Cypher
+* **Linguagens:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, Cypher, C#
 * **Ferramentas BI:** Power BI (DAX, Power Query, Modelagem), Excel (Funções Avançadas, Power Query)
 * **Plataformas Cloud:** Azure (Azure Data Factory, Azure Synapse Analytics, Azure SQL Database, Data Lake Storage)
 * **Bancos de Dados:** SQL Server, PostgreSQL, MySQL, Neo4j AuraDB
