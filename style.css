@@ -171,7 +171,7 @@ section:nth-child(odd) {
     color: var(--text-color);
     text-align: center;
     padding: 100px 0;
-    background-image: url('3409297.jpg'); /* Usando a imagem de fundo que você forneceu */
+    background-image: url('analise-de-dados-capa.webp'); /* Usando a imagem de fundo que você forneceu */
     background-size: cover;
     background-position: center;
     color: var(--white); /* Para garantir que o texto seja legível sobre a imagem */
@@ -487,4 +487,5 @@ footer {
         width: calc(100% - 30px);
         margin: 10px 15px;
     }
+
 }
